@@ -1,0 +1,22 @@
+[
+    {
+        "_id":,
+        "post_id": 1,
+        "image": "post1.jpg"
+    }
+    {
+        "_id":,
+        "post_id": 2,
+        "image": "post2.jpg"
+    }
+    {
+        "_id":,
+        "post_id": 3,
+        "image": "post3.jpg"
+    }
+    {
+        "_id":,
+        "post_id": 4,
+        "image": "post4.jpg"
+    }
+]
