@@ -11,9 +11,13 @@ PROFESSOR: Adriano  Rivolli
 Tapa Buraco
 
 Davi Alves de Azevedo
+
 Gustavo de Oliveira Marques
+
 Igor Bregagnoli
+
 Vinicius Basniak
+
 
 Cornélio Procópio
 2019
